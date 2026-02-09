@@ -160,3 +160,7 @@ My research interests include control and estimation of partial differential equ
 # 💬 Invited Talks
 - *2025.06*, Keynote talk at the 5th IFAC Workshop on Control of Systems Governed by Partial Differential Equations: "Backstepping Control Design for PDE Systems with Different Delay Forms".
 - *2024.11*, Keynote talk at the 3rd International Symposium on Computing and Artificial Intelligence: "Large-Scale Multi-Agent Control via a PDE-Based Approach".
+
+<!-- 办公地址（备注） -->
+### Office Address
+- <i class="fas fa-map-marker-alt"></i> Building 2, Room 2221, No 2999 North Renmin Road, Songjiang, Shanghai, China
