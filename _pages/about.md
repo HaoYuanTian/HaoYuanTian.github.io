@@ -54,7 +54,7 @@ My research interests include control and estimation of partial differential equ
 
 <!-- 简要论文条目 -->
 <!-- 格式说明：[论文标题](链接), 作者, 期刊/会议, 年份, 状态/卷期, DOI -->
-- [Neural operator feedback for a first-order PIDE with spatially-varying state delay](https://ieeexplore.ieee.org/document/11180047), Jie Qi\*, Jiaqi Hu, Jing Zhang, Miroslav Krstic. **IEEE Transactions on Automatic Control**, 2025, online, DOI: 10.1109/TAC.2025.3614407
+[1] [Neural operator feedback for a first-order PIDE with spatially-varying state delay](https://ieeexplore.ieee.org/document/11180047), Jie Qi\*, Jiaqi Hu, Jing Zhang, Miroslav Krstic. **IEEE Transactions on Automatic Control**, 2025, online, DOI: 10.1109/TAC.2025.3614407
 
 <!-- 荣誉与奖项 -->
 # 🎖 Honors and Awards
