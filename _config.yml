@@ -22,7 +22,7 @@ baidu_site_verification  :  # 从 https://ziyuan.baidu.com/login/index?u=/site/i
 # 作者信息
 author:
   name             : "Jie Qi" # 侧栏作者姓名
-  avatar           : "images/android-chrome-512x512.png" # 侧栏头像
+  avatar           : "Pic/photo.jpg" # 侧栏头像
   bio              :  # 侧栏作者简介
   location         : "Shanghai, China" # 侧栏位置
   employer         : # 侧栏单位/机构
