@@ -65,43 +65,10 @@ My research interests include control and estimation of partial differential equ
   Department of Automation, College of Information Science and Technology, Donghua University, Shanghai, China
 
 
-<span class='anchor' id='honors-and-awards'></span>
-
-<!-- 荣誉与奖项 -->
-# 🎖 Honors and Awards
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2025* Songjiang District High-Level Talent Program (Shanghai)
-- *2017* Baosteel Excellent Teacher Award
-- *2013* Twelfth Shanghai Outstanding Youth Post Expert.
-- *2010* Donghua University the First Prize in the Lectures Contest.
-- *2009* Shanghai Excellent Instructor of the Mathematical Contest in Modeling.
-- *2008* Dawn of the Shanghai Scholar. 
-
-
-<span class='anchor' id='research-works'></span>
-
-<!-- 科研项目 -->
-# 🔬 Research Works
-**Main Projects:**
-- Project 1: Control of Several Classes of Distributed Parameter Systems with Spatially-Varying Delays. National Natural Science Foundation of China (NSFC), 62173084, 2022.1-2025.12, Principal Investigator, RMB 728,800
-- Project 2: Reinforcement Learning based Control of the Melt Spinning Forming Process for Polyamide Fiber. Shanghai Natural Science Foundation, 23ZR1401800, 2023.4-2026.3, Principal Investigator, RMB 200,000
-- Project 3: PDE-Based Modeling and Formation Control for Large Scale Collective Systems with Time-Delay and Time-Varying. National Natural Science Foundation of China (NSFC), 61773112, 2018.1-2021.12, Principal Investigator, RMB 722,800
-
-
-<span class='anchor' id='teaching'></span>
-
-<!-- 教学 -->
-# 📚 Teaching
-- Automation Control Theory, Undergraduate, Spring 05, 06, 08-11, 12-18, 20-23, 25-
-- Mathematical modeling and Mathematical experiments, Undergraduate, Fall 05, 06, 08-18, 20
-- Modern Control Theory, Graduated, Spring 09, 11, 12, 15, 25
-- Special topics in theory and technology of complex system modeling, Graduated, Fall 15-18, 20-23, 25-
-
-
 <span class='anchor' id='publications'></span>
 
 <!-- 论文列表 -->
-# 📝 Publications 
+# 📝 Selected publications
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -153,6 +120,40 @@ My research interests include control and estimation of partial differential equ
 # 💬 Invited Talks
 - *2025.06*, Keynote talk at the 5th IFAC Workshop on Control of Systems Governed by Partial Differential Equations: "Backstepping Control Design for PDE Systems with Different Delay Forms".
 - *2024.11*, Keynote talk at the 3rd International Symposium on Computing and Artificial Intelligence: "Large-Scale Multi-Agent Control via a PDE-Based Approach".
+
+
+<span class='anchor' id='honors-and-awards'></span>
+
+<!-- 荣誉与奖项 -->
+# 🎖 Honors and Awards
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025* Songjiang District High-Level Talent Program (Shanghai)
+- *2017* Baosteel Excellent Teacher Award
+- *2013* Twelfth Shanghai Outstanding Youth Post Expert.
+- *2010* Donghua University the First Prize in the Lectures Contest.
+- *2009* Shanghai Excellent Instructor of the Mathematical Contest in Modeling.
+- *2008* Dawn of the Shanghai Scholar. 
+
+
+<span class='anchor' id='research-works'></span>
+
+<!-- 科研项目 -->
+# 🔬 Research Works
+**Main Projects:**
+- Project 1: Control of Several Classes of Distributed Parameter Systems with Spatially-Varying Delays. National Natural Science Foundation of China (NSFC), 62173084, 2022.1-2025.12, Principal Investigator, RMB 728,800
+- Project 2: Reinforcement Learning based Control of the Melt Spinning Forming Process for Polyamide Fiber. Shanghai Natural Science Foundation, 23ZR1401800, 2023.4-2026.3, Principal Investigator, RMB 200,000
+- Project 3: PDE-Based Modeling and Formation Control for Large Scale Collective Systems with Time-Delay and Time-Varying. National Natural Science Foundation of China (NSFC), 61773112, 2018.1-2021.12, Principal Investigator, RMB 722,800
+
+
+<span class='anchor' id='teaching'></span>
+
+<!-- 教学 -->
+# 📚 Teaching
+- Automation Control Theory, Undergraduate, Spring 05, 06, 08-11, 12-18, 20-23, 25-
+- Mathematical modeling and Mathematical experiments, Undergraduate, Fall 05, 06, 08-18, 20
+- Modern Control Theory, Graduated, Spring 09, 11, 12, 15, 25
+- Special topics in theory and technology of complex system modeling, Graduated, Fall 15-18, 20-23, 25-
+
 
 <!-- 办公地址（备注） -->
 ### Office Address

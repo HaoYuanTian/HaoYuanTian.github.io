@@ -9,6 +9,12 @@ main:
   - title: "Professional Experiences"
     url: "/#professional-experiences"
 
+  - title: "Selected Publications"
+    url: "/#publications"
+
+  - title: "Invited Talks"
+    url: "/#invited-talks"
+
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
@@ -18,8 +24,3 @@ main:
   - title: "Teaching"
     url: "/#teaching"
 
-  - title: "Publications"
-    url: "/#publications"
-
-  - title: "Invited Talks"
-    url: "/#invited-talks"
