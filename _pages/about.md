@@ -25,9 +25,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- 个人简介正文（可替换为你的介绍） -->
-I am a professor at Donghua University and Ph.D. supervisor. Member of the Faculty Working Committee of the Chinese Association of Automation, Executive Council Member of the Shanghai Association of Automation, and Council Member of the Shanghai Society for System Simulation. Serves as an Editorial Board Member of the international journal Systems & Control Letters, among others. 
+She is a professor at Donghua University and a Ph.D. supervisor. She is a member of the Faculty Working Committee of the Chinese Association of Automation, an Executive Council Member of the Shanghai Association of Automation, and a Council Member of the Shanghai Society for System Simulation. She serves as an Editorial Board Member of international journals including Systems & Control Letters.
 
-My research interests include control and estimation of partial differential equations, control of time-delay systems, learning-based control for PDE systems, and their applications in multi-agent systems and industrial production processes.
+Her research interests include control and estimation of partial differential equations, control of time-delay systems, control of time-delay systems, learning-based control for PDE systems, and their applications in multi-agent systems and industrial production processes.
 
 
 <!-- 锚点：用于顶部导航跳转到首页内容 -->
@@ -84,32 +84,32 @@ My research interests include control and estimation of partial differential equ
 
 <!-- 简要论文条目 -->
 <!-- 格式说明：[论文标题](链接), 作者, 期刊/会议, 年份, 状态/卷期, DOI -->
-- Jie Qi\*, Jiaqi Hu, Jing Zhang, Miroslav Krstic. [Neural operator feedback for a first-order PIDE with spatially-varying state delay](LINK_HERE). **IEEE Transactions on Automatic Control**, 2025, online, DOI: 10.1109/TAC.2025.3614407
-- Jie Qi\*, Ruth E. Baker. [Optimal experimental design for parameter estimation in the presence of observation noise](LINK_HERE). **Mathematical Biosciences**, 2026, 392: 109571.
-- Hang Zou, Jie Qi\*, Nailong Wu. [Observer-based adaptive tracking control for unmanned surface vehicles under actuator saturation in high sea states](LINK_HERE). **Ocean Engineering**, 2025, 340: 122352.
-- Shanshan Wang, Mamadou Diagne, and Jie Qi\*. [Delay-adaptive Compensation for 3-D Formation Control of Leader-Actuated Multi-agent Systems](LINK_HERE). **Automatica**, 2024, 164: 111645.
-- Dandan Guan, Jie Qi, Mamadou Diagne\*. [Robustness of Reaction-Diffusion PDEs Predictor-Feedback to Stochastic Delay Perturbations](LINK_HERE). **Automatica**, 2024, 167: 111784, regular paper.
-- Jing Zhang, Rafeal Vazquez\*, Jie Qi, Miroslav Krstic. [Multi-agent Deployment in 3-D via Reaction-Diffusion System with Radially-varying Reaction](LINK_HERE). **Automatica**, 2024, 161: 111491, regular paper.
-- Jie Qi\*, Jing Zhang, Miroslav Krstic. [Neural Operators for PDE Backstepping Control of First-Order Hyperbolic PIDE with Recycle and Delay](LINK_HERE). **Systems & Control Letters**, 2024, 185: 105714.
-- Shanshan Wang, Jie Qi\*, Miroslav Krstic. [Delay-adaptive Control of First-order Hyperbolic Partial Integro-differential Equations](LINK_HERE). **International Journal of Robust and Nonlinear Control**, 2024, 34(10): 6784-6803.
-- Shurong Mo, Nailong Wu\*, Jie Qi, et al. [Proximal Policy Optimization Learning Based Control of Congested Freeway Traffic](LINK_HERE). **Optimal Control Applications and Methods**, 2024, 45(2): 719-736.
-- Jie Qi\*, Shurong Mo, Miroslav Krstic. [Delay-Compensated Distributed PDE Control of Traffic with Connected/Automated Vehicles](LINK_HERE). **IEEE Transaction on Automatic Control**, 2023, 68(4): 2229-2244, full paper.
-- Jing Zhang, Jie Qi\*. [Robust Stabilization of 2x2 First-order Hyperbolic PDEs with Uncertain Input Delay](LINK_HERE). **Automatica**, 2023, 157: 111235.
-- Dandan Guan, Yanmei Chen, Jie Qi\*, Linglong Du. [Bilateral Boundary Control of an Input Delayed 2-D Reaction-Diffusion Equation](LINK_HERE). **Automatica**, 2023, 157: 111242.
-- Vazquez, Rafael\*, Jing Zhang, Jie Qi, Miroslav Krstic. [Kernel Well-posedness and Computation by Power Series in Backstepping Output Feedback for Radially-dependent Reaction-Diffusion PDEs on Multidimensional Balls](LINK_HERE). **Systems & Control Letters**, 2023, 177: 105538.
-- Shanshan Wang, Mamadou Diagne, Jie Qi\*. [Delay-Adaptive Predictor Feedback Control of Reaction-Advection-Diffusion PDEs with a Delayed Distributed Input](LINK_HERE). **IEEE Transactions on Automatic Control**, 2022, 67(7): 3762-3769.
-- Dandan Guan, Jie Qi\*. [Radially Varying Delay-compensated Distributed Control of Reaction-Diffusion PDEs on n-ball under Revolution Symmetry Conditions](LINK_HERE). **International Journal of Robust and Nonlinear Control**, 2022, 32(15): 8421-8450.
-- Jing Zhang, Jie Qi\*, Stevan Dubljevic, Bo Shen. [Output Regulation for a First-Order Hyperbolic PIDE with State and Sensor delays](LINK_HERE). **European Journal of Control**, 2022, 65: 100643.
-- Jie Sun, Bo Shen\*, Jie Qi, Yufei Liu. [Stubborn State Estimation for Nonlinear Distributed Parameter Systems Subject to Measurement Outliers](LINK_HERE). **International Journal of Robust and Nonlinear Control**, 2022, 32(1): 13-28.
-- Jie Qi\*, Miroslav Krstic. [Compensation of Spatially-Varying Input Delay in Distributed Control of Reaction-Diffusion PDEs](LINK_HERE). **IEEE Transaction on Automatic Control**, 2021, 66(9): 4069-4083, full paper.
-- Jie Qi, Stevan Dubljevic\*, Weijian Kong. [Output Feedback Compensation to State and Measurement Delays for a First-order Hyperbolic PIDE with Recycle](LINK_HERE). **Automatica**, 2021, 128(6): 109565.
-- Shanshan Wang, Jie Qi, Mamadou Diagne\*. [Adaptive Boundary Control of Reaction-Diffusion PDEs with Unknown Input Delay](LINK_HERE). **Automatica**, 2021, 134: 109909, regular paper.
-- Jing Zhang, Jie Qi\*. [Compensation of Spatially-Varying State Delay for a First-Order Hyperbolic PIDE using Boundary Control](LINK_HERE). **Systems & Control Letters**, 2021, 157(11): 105050.
-- Jie Qi, Shanshan Wang, Jianan Fang, Mamadou Diagne\*. [Control of Multi-Agent Systems with Input Delay via PDE-based Method](LINK_HERE). **Automatica**, 2019, 161(3): 91-100.
-- Jie Qi\*, Miroslav Krstic, Shanshan Wang. [Stabilization of Reaction-Diffusions PDE with Delayed Distributed Actuation](LINK_HERE). **Systems & Control Letters**, 2019, 133: 104558.
-- Jie Qi, Shuxia Tang\* and Chuan Wang. [Parabolic PDE-based Multi-Agent Formation Control on a Cylindrical Surface](LINK_HERE). **International Journal of Control**, 2019, 92(1): 77-99.
-- Jie Qi\*, Jing Zhang, Yongsheng Ding. [Wave Equation-based Time-varying Formation Control of Multiagent Systems](LINK_HERE). **IEEE Transactions on Control Systems Technology**, 2018, 26(5): 1578-1591.
-- Jie Qi\*, Rafael Vazquez, Miroslav Krstic. [Multi-agent Deployment in 3-D via PDE Control](LINK_HERE). **IEEE Transaction on Automatic Control**, 2015, 60(4): 891-906, full paper.
+- Jie Qi\*, Jiaqi Hu, Jing Zhang, Miroslav Krstic. [Neural operator feedback for a first-order PIDE with spatially-varying state delay](https://ieeexplore.ieee.org/document/11180047). **IEEE Transactions on Automatic Control**, 2025, online, DOI: 10.1109/TAC.2025.3614407
+- Jie Qi\*, Ruth E. Baker. [Optimal experimental design for parameter estimation in the presence of observation noise](https://www.sciencedirect.com/science/article/abs/pii/S002555642500197X). **Mathematical Biosciences**, 2026, 392: 109571.
+- Hang Zou, Jie Qi\*, Nailong Wu. [Observer-based adaptive tracking control for unmanned surface vehicles under actuator saturation in high sea states](https://www.sciencedirect.com/science/article/abs/pii/S0029801825020360). **Ocean Engineering**, 2025, 340: 122352.
+- Shanshan Wang, Mamadou Diagne, and Jie Qi\*. [Delay-adaptive Compensation for 3-D Formation Control of Leader-Actuated Multi-agent Systems](https://www.sciencedirect.com/science/article/abs/pii/S0005109824001389). **Automatica**, 2024, 164: 111645.
+- Dandan Guan, Jie Qi, Mamadou Diagne\*. [Robustness of Reaction-Diffusion PDEs Predictor-Feedback to Stochastic Delay Perturbations](https://www.sciencedirect.com/science/article/abs/pii/S0005109824002784). **Automatica**, 2024, 167: 111784, regular paper.
+- Jing Zhang, Rafeal Vazquez\*, Jie Qi, Miroslav Krstic. [Multi-agent Deployment in 3-D via Reaction-Diffusion System with Radially-varying Reaction](https://www.sciencedirect.com/science/article/pii/S000510982300660X). **Automatica**, 2024, 161: 111491, regular paper.
+- Jie Qi\*, Jing Zhang, Miroslav Krstic. [Neural Operators for PDE Backstepping Control of First-Order Hyperbolic PIDE with Recycle and Delay](https://www.sciencedirect.com/science/article/abs/pii/S0167691124000021). **Systems & Control Letters**, 2024, 185: 105714.
+- Shanshan Wang, Jie Qi\*, Miroslav Krstic. [Delay-adaptive Control of First-order Hyperbolic Partial Integro-differential Equations](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.7257). **International Journal of Robust and Nonlinear Control**, 2024, 34(10): 6784-6803.
+- Shurong Mo, Nailong Wu\*, Jie Qi, et al. [Proximal Policy Optimization Learning Based Control of Congested Freeway Traffic](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3068). **Optimal Control Applications and Methods**, 2024, 45(2): 719-736.
+- Jie Qi\*, Shurong Mo, Miroslav Krstic. [Delay-Compensated Distributed PDE Control of Traffic with Connected/Automated Vehicles](https://ieeexplore.ieee.org/document/9772310). **IEEE Transaction on Automatic Control**, 2023, 68(4): 2229-2244, full paper.
+- Jing Zhang, Jie Qi\*. [Robust Stabilization of 2x2 First-order Hyperbolic PDEs with Uncertain Input Delay](https://www.sciencedirect.com/science/article/abs/pii/S0005109823003965). **Automatica**, 2023, 157: 111235.
+- Dandan Guan, Yanmei Chen, Jie Qi\*, Linglong Du. [Bilateral Boundary Control of an Input Delayed 2-D Reaction-Diffusion Equation](https://www.sciencedirect.com/science/article/abs/pii/S000510982300403X). **Automatica**, 2023, 157: 111242.
+- Vazquez, Rafael\*, Jing Zhang, Jie Qi, Miroslav Krstic. [Kernel Well-posedness and Computation by Power Series in Backstepping Output Feedback for Radially-dependent Reaction-Diffusion PDEs on Multidimensional Balls](https://www.sciencedirect.com/science/article/pii/S0167691123000853). **Systems & Control Letters**, 2023, 177: 105538.
+- Shanshan Wang, Mamadou Diagne, Jie Qi\*. [Delay-Adaptive Predictor Feedback Control of Reaction-Advection-Diffusion PDEs with a Delayed Distributed Input](https://ieeexplore.ieee.org/document/9528941). **IEEE Transactions on Automatic Control**, 2022, 67(7): 3762-3769.
+- Dandan Guan, Jie Qi\*. [Radially Varying Delay-compensated Distributed Control of Reaction-Diffusion PDEs on n-ball under Revolution Symmetry Conditions](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.6293). **International Journal of Robust and Nonlinear Control**, 2022, 32(15): 8421-8450.
+- Jing Zhang, Jie Qi\*, Stevan Dubljevic, Bo Shen. [Output Regulation for a First-Order Hyperbolic PIDE with State and Sensor delays](https://www.sciencedirect.com/science/article/abs/pii/S094735802200036X). **European Journal of Control**, 2022, 65: 100643.
+- Jie Sun, Bo Shen\*, Jie Qi, Yufei Liu. [Stubborn State Estimation for Nonlinear Distributed Parameter Systems Subject to Measurement Outliers](https://onlinelibrary.wiley.com/doi/abs/10.1002/rnc.5801). **International Journal of Robust and Nonlinear Control**, 2022, 32(1): 13-28.
+- Jie Qi\*, Miroslav Krstic. [Compensation of Spatially-Varying Input Delay in Distributed Control of Reaction-Diffusion PDEs](https://ieeexplore.ieee.org/document/9209093). **IEEE Transaction on Automatic Control**, 2021, 66(9): 4069-4083, full paper.
+- Jie Qi, Stevan Dubljevic\*, Weijian Kong. [Output Feedback Compensation to State and Measurement Delays for a First-order Hyperbolic PIDE with Recycle](https://www.sciencedirect.com/science/article/abs/pii/S0005109821000856). **Automatica**, 2021, 128(6): 109565.
+- Shanshan Wang, Jie Qi, Mamadou Diagne\*. [Adaptive Boundary Control of Reaction-Diffusion PDEs with Unknown Input Delay](https://academic.oup.com/imamci/article-abstract/42/4/dnaf034/8303977?redirectedFrom=fulltext). **Automatica**, 2021, 134: 109909, regular paper.
+- Jing Zhang, Jie Qi\*. [Compensation of Spatially-Varying State Delay for a First-Order Hyperbolic PIDE using Boundary Control](https://www.sciencedirect.com/science/article/abs/pii/S0167691121001808). **Systems & Control Letters**, 2021, 157(11): 105050.
+- Jie Qi, Shanshan Wang, Jianan Fang, Mamadou Diagne\*. [Control of Multi-Agent Systems with Input Delay via PDE-based Method](https://www.sciencedirect.com/science/article/abs/pii/S000510981930192X). **Automatica**, 2019, 161(3): 91-100.
+- Jie Qi\*, Miroslav Krstic, Shanshan Wang. [Stabilization of Reaction-Diffusions PDE with Delayed Distributed Actuation](https://www.sciencedirect.com/science/article/abs/pii/S0167691119301689). **Systems & Control Letters**, 2019, 133: 104558.
+- Jie Qi, Shuxia Tang\* and Chuan Wang. [Parabolic PDE-based Multi-Agent Formation Control on a Cylindrical Surface](https://www.tandfonline.com/doi/full/10.1080/00207179.2017.1308556). **International Journal of Control**, 2019, 92(1): 77-99.
+- Jie Qi\*, Jing Zhang, Yongsheng Ding. [Wave Equation-based Time-varying Formation Control of Multiagent Systems](https://ieeexplore.ieee.org/document/8125141). **IEEE Transactions on Control Systems Technology**, 2018, 26(5): 1578-1591.
+- Jie Qi\*, Rafael Vazquez, Miroslav Krstic. [Multi-agent Deployment in 3-D via PDE Control](https://ieeexplore.ieee.org/document/6914569). **IEEE Transaction on Automatic Control**, 2015, 60(4): 891-906, full paper.
 
 \* Corresponding author
 
@@ -140,9 +140,9 @@ My research interests include control and estimation of partial differential equ
 <!-- 科研项目 -->
 # 🔬 Research Works
 **Main Projects:**
-- Project 1: Control of Several Classes of Distributed Parameter Systems with Spatially-Varying Delays. National Natural Science Foundation of China (NSFC), 62173084, 2022.1-2025.12, Principal Investigator, RMB 728,800
-- Project 2: Reinforcement Learning based Control of the Melt Spinning Forming Process for Polyamide Fiber. Shanghai Natural Science Foundation, 23ZR1401800, 2023.4-2026.3, Principal Investigator, RMB 200,000
-- Project 3: PDE-Based Modeling and Formation Control for Large Scale Collective Systems with Time-Delay and Time-Varying. National Natural Science Foundation of China (NSFC), 61773112, 2018.1-2021.12, Principal Investigator, RMB 722,800
+- Project 1: Control of Several Classes of Distributed Parameter Systems with Spatially-Varying Delays. National Natural Science Foundation of China (NSFC), 62173084, 2022.1-2025.12, Principal Investigator.
+- Project 2: Reinforcement Learning based Control of the Melt Spinning Forming Process for Polyamide Fiber. Shanghai Natural Science Foundation, 23ZR1401800, 2023.4-2026.3, Principal Investigator.
+- Project 3: PDE-Based Modeling and Formation Control for Large Scale Collective Systems with Time-Delay and Time-Varying. National Natural Science Foundation of China (NSFC), 61773112, 2018.1-2021.12, Principal Investigator.
 
 
 <span class='anchor' id='teaching'></span>
